@@ -189,7 +189,7 @@ function App() {
               size="sm"
               className="hidden lg:inline-block"
             >
-              <a href="https://github.com/kevinnvm">GitHub</a>
+              <a href="https://github.com/kevinnvm/react-todo">GitHub</a>
             </Button>
             <IconButton
               variant="text"
@@ -233,7 +233,7 @@ function App() {
             <div className="container mx-auto">
               {navList}
               <Button variant="gradient" size="sm" fullWidth className="mb-2">
-                <a href="https://github.com/kevinnvm">GitHub</a>
+                <a href="https://github.com/kevinnvm/react-todo">GitHub</a>
               </Button>
             </div>
           </MobileNav>
